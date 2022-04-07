@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_sort"
+        android:icon="@drawable/ic_sort"
+        android:title="Sort"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/star_icon"
+                android:orderInCategory="100"
+                android:title="Rate"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share_black_icon"
+                android:orderInCategory="100"
+                android:title="Share"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/privacy_icon"
+                android:orderInCategory="100"
+                android:title="Privacy Policy"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/nav_how"
+                android:icon="@drawable/howtouse_icon"
+                android:orderInCategory="100"
+                android:title="How to use?"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/nav_notworking"
+                android:icon="@drawable/appnot_icon"
+                android:orderInCategory="100"
+                android:title="Not Working"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/feedback_icon"
+                android:orderInCategory="100"
+                android:title="Feedback"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+</menu>

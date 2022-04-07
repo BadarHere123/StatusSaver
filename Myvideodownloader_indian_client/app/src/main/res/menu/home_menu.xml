@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_tiktok"
+        android:icon="@drawable/tiktok_icon"
+        android:title="Tiktok" />
+    <item
+        android:id="@+id/navigation_instagram"
+        android:icon="@drawable/instagram_icon"
+        android:title="Instagram" />
+    <item
+        android:id="@+id/navigation_facebook"
+        android:icon="@drawable/facebook_icon"
+        android:title="Facebook" />
+    <item
+        android:id="@+id/navigation_twitter"
+        android:icon="@drawable/liveleak_icon"
+        android:title="LiveLeak" />
+    <item
+        android:id="@+id/navigation_youtube"
+        android:icon="@drawable/youtube_icon"
+        android:title="Youtube" />
+    <item
+        android:id="@+id/navigation_ted"
+        android:icon="@drawable/youtube_icon"
+        android:title="Ted" />
+</menu>

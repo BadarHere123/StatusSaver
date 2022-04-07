@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="browser_actions_context_menu_max_width">500dp</dimen>
+    <dimen name="browser_actions_context_menu_min_padding">20dp</dimen>
+
+    <dimen name="exo_media_button_height">52dp</dimen>
+    <dimen name="exo_media_button_width">71dp</dimen>
+
+    <dimen name="material_emphasis_disabled">0.38</dimen>
+    <dimen name="material_emphasis_high_type">0.87</dimen>
+    <dimen name="material_emphasis_medium">0.6</dimen>
+
+</resources>
